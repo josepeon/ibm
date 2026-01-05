@@ -1,11 +1,13 @@
 # Data and datasets
 o-vs-r-split/
+.fashion/
 *.zip
 
 # Model files
 *.keras
 *.h5
 *.pkl
+*.pth
 
 # Python
 __pycache__/
